@@ -1,4 +1,10 @@
 # R-pairstrading-shiny
 Shiny frontend for the pairs trade search engine.
 
-![Trading Signal](https://www.bafonte.xyz/resources/images/trade_signal.jpeg)
+![Pontential Pairs](https://raw.githubusercontent.com/jhleong-quant-finance/R-pairstrading-shiny/master/screenshots/found_pairs.png)
+
+![Pairs Performance](https://raw.githubusercontent.com/jhleong-quant-finance/R-pairstrading-shiny/master/screenshots/pairs_performance.png)
+
+![Pair Components](https://raw.githubusercontent.com/jhleong-quant-finance/R-pairstrading-shiny/master/screenshots/pairs_component.png)
+
+![Trade Signal](https://raw.githubusercontent.com/jhleong-quant-finance/R-pairstrading-shiny/master/screenshots/trade_signal.png)
